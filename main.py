@@ -3,8 +3,8 @@ import replicate
 import requests
 import telebot
 
-TELEGRAM_BOT_TOKEN = "6990432139:AAEr7pCnxaptZ_mcrJQPompKtJivtTjpCWA"
-REPLICATE_API_TOKEN = "r8_5b1hGbLvCLXl2dVzl4uNqShhApwgmeR3CaXLR"
+TELEGRAM_BOT_TOKEN = "***"
+REPLICATE_API_TOKEN = "***"
 
 # Set the REPLICATE_API_TOKEN environment variable
 os.environ["REPLICATE_API_TOKEN"] = REPLICATE_API_TOKEN
